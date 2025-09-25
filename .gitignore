@@ -1,0 +1,19 @@
+# Executáveis
+*.exe
+*.out
+*.app
+
+# Arquivos de objeto
+*.o
+
+# Arquivos temporários do editor/IDE
+*~
+*.swp
+.DS_Store
+.vscode/
+
+# Build do Make
+/build/
+
+# Binário final (definido no Makefile)
+trabalho-so
